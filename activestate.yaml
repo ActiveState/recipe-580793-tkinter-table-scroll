@@ -1,6 +1,6 @@
 # Want to find out what you can do with this file? Head over to:
 # http://docs.activestate.com/platform/state/start.html
-project: https://platform.activestate.com/ActiveState-Recipes/recipe-580793-tkinter-table-scroll?commitID=d3c226f9-f96d-4417-a889-68017570d73d
+project: https://platform.activestate.com/ActiveState-Recipes/recipe-580793-tkinter-table-scroll?commitID=9cf17aad-c92a-4ec2-81d3-5fa2003a5de8
 scripts:
   - name: recipe
     description: Runs the recipe
