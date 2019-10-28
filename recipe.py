@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 # Author: Miguel Martinez Lopez
 # Version: 0.20
 
